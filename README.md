@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tweni47
-- 👀 I’m interested in software development. 
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on python projects and exchange ideas.
+- 👀 I’m interested in web development. 
+- 🌱 MongoDB, Express, React, Node.
 - 📫 How to reach me @derrickayaya@gmail.com 
 
 <!---
