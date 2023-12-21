@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tweni47
 - 👀 I’m interested in web development. 
-- 🌱 MongoDB, Express, React, Node.
+- 🌱 Javascript, Typescript, MongoDB, Express, React, Node, NextJS.
 - 📫 How to reach me @derrickayaya@gmail.com 
 
 <!---
